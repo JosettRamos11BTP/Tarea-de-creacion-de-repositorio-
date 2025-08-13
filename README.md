@@ -32,7 +32,7 @@ Este proyecto consiste en el desarrollo de un sistema digital para gestionar res
 ---
 
 ## 🖼 Imagen de Referencia
-![Habitación de hotel](a/imagen.jpg)
+![Imagen de hotel](Tarea-de-creacion-de-repositorio-/Tarea#3/imagen.jpg)
 
 ---
 
